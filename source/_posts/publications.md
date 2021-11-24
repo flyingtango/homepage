@@ -10,6 +10,10 @@ title: Publications
     NeurIPS 2020, *poster*
     <u>**Zekun Tong**</u>, Yuxuan Liang, Changsheng Sun, Xinke Li, David S. Rosenblum, Andrew Lim
     [PDF](/attaches/digcn_nips.pdf), [Code](https://github.com/flyingtango/DiGCN), [Poster](/attaches/digcn_poster.pdf)
+- **Directed Graph Convolutional Network**
+    arXiv 2020, *preprint*
+    <u>**Zekun Tong**</u>, Yuxuan Liang, Changsheng Sun, David S. Rosenblum, Andrew Lim
+    [PDF](https://arxiv.org/pdf/2004.13970.pdf)
 
 ### Computer Vision
 - **Dual-refinement: Joint Label and Feature Refinement for Unsupervised Domain Adaptive Person Re-ID**

@@ -5,11 +5,11 @@ title: Publications
 - **Directed Graph Contrastive Learning**
     NeurIPS 2021, *poster*
     <u>**Zekun Tong**</u>, Yuxuan Liang, Henghui Ding, Yongxing Dai, Xinke Li, Changhu Wang 
-    [PDF](/attaches/digcl_nips.pdf), [Code](https://github.com/flyingtango/DiGCL)
+    [PDF](/attaches/digcl_nips.pdf), [Code](https://github.com/flyingtango/DiGCL), [Supp](/attaches/digcl_supp.pdf), [Poster](/attaches/digcl_poster.pdf)
 - **Digraph Inception Convolutional Networks**
     NeurIPS 2020, *poster*
     <u>**Zekun Tong**</u>, Yuxuan Liang, Changsheng Sun, Xinke Li, David S. Rosenblum, Andrew Lim
-    [PDF](/attaches/digcn_nips.pdf), [Code](https://github.com/flyingtango/DiGCN), [Poster](/attaches/digcn_poster.pdf)
+    [PDF](/attaches/digcn_nips.pdf), [Code](https://github.com/flyingtango/DiGCN), [Supp](/attaches/digcn_supp.pdf), [Poster](/attaches/digcn_poster.pdf)
 - **Directed Graph Convolutional Network**
     arXiv 2020, *preprint*
     <u>**Zekun Tong**</u>, Yuxuan Liang, Changsheng Sun, David S. Rosenblum, Andrew Lim

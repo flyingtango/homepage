@@ -24,7 +24,7 @@ B.E. in Computer Science and Technology, **Xidian University**, 2014 - 2018
 - Sep. 2021: One paper was accepted by NeurIPS 2021.
 - Jul. 2021: One paper was accepted by TIP.
 - Jul. 2021: Two papers were accepted by ICCV 2021.
-- Jun. 2021: Invited as a reviewer for ICLR 2021.
+- Jun. 2021: Invited as a reviewer for ICLR 2022.
 - May. 2021: Invited as a reviewer for TPAMI.
 - May. 2021: One paper was accepted by IJCAI 2021.
 - Apr. 2021: Invited as a reviewer for NeurIPS 2021.

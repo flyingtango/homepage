@@ -35,7 +35,7 @@ title: Publications
 - **Campus3D: A Photogrammetry Point Cloud Benchmark for Hierarchical Understanding of Outdoor Scene**
     MM 2020, *oral*
     Xinke Li, Chongshou Li, <u>**Zekun Tong**</u>, Andrew Lim, Junsong Yuan, Yuwei Wu, Jing Tang, Raymond Huang
-    [PDF](/attaches/CampusNet_MM20.pdf)
+    [PDF](/attaches/CampusNet_MM20.pdf), [Website](https://3d.dataset.site), [Code](https://github.com/shinke-li/Campus3D)
 
 ### Spatio-temporal Data Mining
 - **Modeling Trajectories with Neural Ordinary Differential Equations**

@@ -3,7 +3,7 @@ title: Projects
 ---
 
 - **Campus3D**
-    [Project link](https://3d.dataset.site/), Jan 2019 – May 2020
+    [Project link](https://3d.nus.app/), Jan 2019 – May 2020
     A large-scale 3D point cloud dataset of NUS campus.
     ![campus3d](/img/campus3d.gif)
 - **IPPT Trainer**

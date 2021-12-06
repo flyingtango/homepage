@@ -8,9 +8,9 @@ academia: true
 I am a fourth-year PhD student in School of Engineering at [**National University of Singapore**](http://nus.edu.sg/), supervised by Prof. [**Andrew Lim**](https://www.limandrew.org/) and Prof. [**Chee Yeow Meng**](https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ). I received my B.E. degree from the School of Computer Science and Technology, [**Xidian University**](http://en.xidian.edu.cn/) in 2018. While completing several innovative projects, I have also published several papers in recommended journals and conferences, such as **ICCV, TKDE, CVPR, ACM MM** and **NeurIPS**.
 
 My research interests lie in 
-- graph neural networks;
-- computer vision including 2d image and 3d point cloud;
-- spatio-temporal data mining.
+- Graph Neural Networks;
+- Computer Vision including 2d image and 3d point cloud;
+- Spatio-temporal data mining.
 
 ***I expect to graduate in the summer of 2022 and am currently seeking potential job opportunities, either in industry or research positions. I cannot wait to try out various chances, so please feel free to contact me!***
 
@@ -39,3 +39,11 @@ B.E. in Computer Science and Technology, **Xidian University**, 2014 - 2018
 
 - Conference PC member: ICLR’22, NeurIPS’21, ICML’21, CVPR’21, etc.
 - Journal reviewer: TPAMI.
+
+# Nice Collaborators
+
+- [Changsheng Sun](https://sunchangsheng.com/), PhD, National University of Singapore
+- [Henghui Ding](https://henghuiding.github.io/), Postdoc, ETH Zürich
+- [Xinke Li](http://xinke.li/), PhD, National University of Singapore
+- [Yongxing Dai](https://github.com/SikaStar), PhD, Peking University
+- [Yuxuan Liang](https://yuxuanliang.com/), PhD, National University of Singapore

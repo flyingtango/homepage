@@ -16,9 +16,9 @@ title: Publications
     [PDF](https://arxiv.org/pdf/2004.13970.pdf)
 
 ### Computer Vision
-- **Dual-refinement: Joint Label and Feature Refinement for Unsupervised Domain Adaptive Person Re-ID**
+- **Dual-refinement: Joint Label and Feature Refinement for Unsupervised Domain Adaptive Person Re-Identification**
     TIP 2021, *journal*
-    Yongxing Dai, Jun Liu, Yifan Sun, <u>**Zekun Tong**</u>, Chi Zhang, Lingyu Duan
+    Yongxing Dai, Jun Liu, Yan Bai, <u>**Zekun Tong**</u>, Lingyu Duan
     [PDF](https://arxiv.org/pdf/2012.13689.pdf), [Code](https://github.com/SikaStar/Dual-Refinement)
 - **PointBA: Towards Backdoor Attacks in 3D Point Cloud**
     ICCV 2021, *poster*

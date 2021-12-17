@@ -9,7 +9,7 @@ I am a fourth-year PhD student in School of Engineering at [**National Universit
 
 My research interests lie in 
 - Graph Neural Networks;
-- Computer Vision (2d image and 3d point cloud);
+- Computer Vision (2D image and 3D point cloud);
 - Spatio-temporal Data Mining.
 
 ***I expect to graduate in the summer of 2022 and am currently seeking potential job opportunities, either in industry or research positions. I cannot wait to try out various chances, so please feel free to contact me!***

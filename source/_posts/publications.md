@@ -33,9 +33,13 @@ title: Publications
     Yongxing Dai, Xiaotong Li, Jun Liu, <u>**Zekun Tong**</u>, Ling-yu Duan
     [PDF](https://arxiv.org/pdf/2105.09156.pdf)
 - **Campus3D: A Photogrammetry Point Cloud Benchmark for Hierarchical Understanding of Outdoor Scene**
-    MM 2020, *oral*
+    ACM MM 2020, *oral*
     Xinke Li, Chongshou Li, <u>**Zekun Tong**</u>, Andrew Lim, Junsong Yuan, Yuwei Wu, Jing Tang, Raymond Huang
     [PDF](/attaches/CampusNet_MM20.pdf), [Website](https://3d.nus.app), [Code](https://github.com/shinke-li/Campus3D)
+- **Reproducibility Companion Paper: Campus3D: A Photogrammetry Point Cloud Benchmark for Outdoor Scene Hierarchical Understanding**
+    ACM MM 2021, *poster*
+    Yuqing Liao, Xinke Li, <u>**Zekun Tong**</u>, Yabang Zhao, Andrew Lim, Zhenzhong Kuang, Cise Midoglu
+    [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3477934), [Website](https://3d.nus.app), [Code](https://github.com/Yuqing-Liao/reproduce-campus3d)
 
 ### Spatio-temporal Data Mining
 - **Modeling Trajectories with Neural Ordinary Differential Equations**

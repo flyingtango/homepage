@@ -38,7 +38,7 @@ B.E. in Computer Science and Technology, **Xidian University**, 2014 - 2018
 
 # Professional Activities
 
-- Conference PC member: ICLR’22, NeurIPS’21, ICML’21, CVPR’21, etc.
+- Conference PC member: ICLR'22, NeurIPS’21, ICML '22'21, CVPR'21, etc.
 - Journal reviewer: TPAMI.
 
 # Nice Collaborators

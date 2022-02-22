@@ -46,5 +46,5 @@ B.E. in Computer Science and Technology, **Xidian University**, 2014 - 2018
 - [Changsheng Sun](https://sunchangsheng.com/), PhD, National University of Singapore
 - [Henghui Ding](https://henghuiding.github.io/), Postdoc, ETH Zürich
 - [Xinke Li](http://xinke.li/), PhD, National University of Singapore
-- [Yongxing Dai](https://github.com/SikaStar), PhD, Peking University
+- [Yongxing Dai](https://sikastar.github.io/), PhD, Peking University
 - [Yuxuan Liang](https://yuxuanliang.com/), PhD, National University of Singapore

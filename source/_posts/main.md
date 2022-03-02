@@ -21,6 +21,7 @@ B.E. in Computer Science and Technology, **Xidian University**, 2014 - 2018
 
 # News
 
+- Mar. 2022: One paper was accepted by CVPR 2022.
 - Dec. 2021: Invited as a reviewer for ICML 2022.
 - Sep. 2021: One paper was accepted by NeurIPS 2021.
 - Jul. 2021: One paper was accepted by TIP.

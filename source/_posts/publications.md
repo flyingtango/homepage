@@ -16,6 +16,10 @@ title: Publications
     [PDF](https://arxiv.org/pdf/2004.13970.pdf)
 
 ### Computer Vision
+- **Primitive3D: Learning from 3D Objects Assembled with Random Primitives**
+    CVPR 2022, *poster*
+    Xinke Li, Henghui Ding, <u>**Zekun Tong**</u>, Yeow Meng Chee, Yuwei Wu
+    <!-- [PDF](https://arxiv.org/pdf/2012.13689.pdf), [Code](https://github.com/SikaStar/Dual-Refinement) -->
 - **Dual-refinement: Joint Label and Feature Refinement for Unsupervised Domain Adaptive Person Re-Identification**
     TIP 2021, *journal*
     Yongxing Dai, Jun Liu, Yan Bai, <u>**Zekun Tong**</u>, Lingyu Duan

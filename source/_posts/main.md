@@ -5,7 +5,7 @@ tags:
 academia: true
 ---
 # About me
-I am a fourth-year PhD student in School of Engineering at [**National University of Singapore**](http://nus.edu.sg/), supervised by Prof. [**Andrew Lim**](https://www.limandrew.org/) and Prof. [**Chee Yeow Meng**](https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ). I received my B.E. degree from the School of Computer Science and Technology, [**Xidian University**](http://en.xidian.edu.cn/) in 2018. While completing several innovative projects, I have also published several papers in recommended journals and conferences, such as **ICCV, TKDE, CVPR, ACM MM** and **NeurIPS**.
+I am a fourth-year PhD student in School of Engineering at [**National University of Singapore**](http://nus.edu.sg/), supervised by Prof. [**Andrew Lim**](https://www.limandrew.org/) and Prof. [**Chee Yeow Meng**](https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ). I received my B.E. degree from the School of Computer Science and Technology, [**Xidian University, China**](http://en.xidian.edu.cn/) in 2018. While completing several innovative projects, I have also published several papers in recommended journals and conferences, such as **ICCV, TKDE, CVPR, ACM MM** and **NeurIPS**.
 
 My research interests lie in 
 - Graph Neural Networks;
@@ -17,7 +17,7 @@ My research interests lie in
 # Education
 
 PhD in Industrial Systems Engineering, **National University of Singapore**, 2018 - present
-B.E. in Computer Science and Technology, **Xidian University**, 2014 - 2018
+B.E. in Computer Science and Technology, **Xidian University, China**, 2014 - 2018
 
 # News
 

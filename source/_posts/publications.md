@@ -16,6 +16,10 @@ title: Publications
     [PDF](https://arxiv.org/pdf/2004.13970.pdf)
 
 ### Computer Vision
+- **Bridging the Source-to-target Gap for Cross-domain Person Re-Identification with Intermediate Domain**
+    arXiv 2022, *preprint*
+    Yongxing Dai, Yifan Sun, Jun Liu, <u>**Zekun Tong**</u>, Yi Yang, Ling-Yu Duan
+    [PDF](https://arxiv.org/pdf/2203.01682.pdf)
 - **Primitive3D: Learning from 3D Objects Assembled with Random Primitives**
     CVPR 2022, *poster*
     Xinke Li, Henghui Ding, <u>**Zekun Tong**</u>, Yeow Meng Chee, Yuwei Wu

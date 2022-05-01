@@ -12,7 +12,7 @@ My research interests lie in
 - Computer Vision (2D image and 3D point cloud);
 - Spatio-temporal Data Mining.
 
-***I expect to graduate in the summer of 2022 and am currently seeking potential job opportunities, either in industry or research positions. I cannot wait to try out various chances, so please feel free to contact me!***
+<!-- ***I expect to graduate in the summer of 2022 and am currently seeking potential job opportunities, either in industry or research positions. I cannot wait to try out various chances, so please feel free to contact me!*** -->
 
 # Education
 
@@ -21,6 +21,7 @@ B.E. in Computer Science and Technology, **Xidian University, China**, 2014 - 20
 
 # News
 
+- Apr. 2022: Invited as a reviewer for NeurIPS 2022.
 - Mar. 2022: One paper was accepted by CVPR 2022.
 - Dec. 2021: Invited as a reviewer for ICML 2022.
 - Sep. 2021: One paper was accepted by NeurIPS 2021.
@@ -39,7 +40,7 @@ B.E. in Computer Science and Technology, **Xidian University, China**, 2014 - 20
 
 # Professional Activities
 
-- Conference PC member: ICLR'22, NeurIPS’21, ICML '22'21, CVPR'21, etc.
+- Conference PC member: ICLR'22, NeurIPS’22’21, ICML '22'21, CVPR'21, etc.
 - Journal reviewer: TPAMI.
 
 # Nice Collaborators

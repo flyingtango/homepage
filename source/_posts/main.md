@@ -1,11 +1,11 @@
 ---
 title: index
-date: 2022-05-06 11:00:00
+date: 2023-03-03 11:00:00
 tags:
 academia: true
 ---
 # About me
-I am a fourth-year PhD student in School of Engineering at [**National University of Singapore**](http://nus.edu.sg/), supervised by Prof. [**Andrew Lim**](https://www.limandrew.org/) and Prof. [**Chee Yeow Meng**](https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ). I received my B.E. degree from the School of Computer Science and Technology, [**Xidian University, China**](http://en.xidian.edu.cn/) in 2018. While completing several innovative projects, I have also published several papers in recommended journals and conferences, such as **ICCV, TKDE, CVPR, ACM MM** and **NeurIPS**.
+I am currently engaged in quantitative trading. I was a PhD student in School of Engineering at [**National University of Singapore**](http://nus.edu.sg/), supervised by Prof. [**Chee Yeow Meng**](https://scholar.google.com.sg/citations?user=99AJNXEAAAAJ) and Prof. [**Andrew Lim**](https://www.limandrew.org/). I received my B.E. degree from the School of Computer Science and Technology, [**Xidian University, China**](http://en.xidian.edu.cn/) in 2018. While completing several innovative projects, I have also published several papers in recommended journals and conferences, such as **ICCV, TKDE, CVPR, ACM MM** and **NeurIPS**.
 
 My research interests lie in 
 - Graph Neural Networks;
@@ -16,11 +16,11 @@ My research interests lie in
 
 # Education
 
-PhD in Industrial Systems Engineering, **National University of Singapore**, 2018 - present
+PhD in Industrial Systems Engineering, **National University of Singapore**, 2018 - 2023
 B.E. in Computer Science and Technology, **Xidian University, China**, 2014 - 2018
 
 # News
-
+- Feb. 2023: Successfully passed my PhD defense!
 - May. 2022: Invited as a reviewer for TNNLS.
 - Apr. 2022: Invited as a reviewer for NeurIPS 2022.
 - Mar. 2022: One paper was accepted by CVPR 2022.

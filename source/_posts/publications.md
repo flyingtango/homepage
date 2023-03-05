@@ -2,7 +2,7 @@
 title: Publications
 ---
 ### Graph Neural Networks
-- **Depp Learning on Graph-structured Date**
+- **Depp Learning on Graph-structured Data**
     PhD Thesis
     <u>**Zekun Tong**</u>
     [PDF](/attaches/TZK-graph_thesis.pdf)

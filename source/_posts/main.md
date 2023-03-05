@@ -16,11 +16,12 @@ My research interests lie in
 
 # Education
 
-PhD in Industrial Systems Engineering, **National University of Singapore**, 2018 - 2023
+PhD in Industrial Systems Engineering, **National University of Singapore**, 2018 - 2022
 B.E. in Computer Science and Technology, **Xidian University, China**, 2014 - 2018
 
 # News
 - Feb. 2023: Successfully passed my PhD defense!
+- Aug. 2022: Submitted my thesis for defense.
 - May. 2022: Invited as a reviewer for TNNLS.
 - Apr. 2022: Invited as a reviewer for NeurIPS 2022.
 - Mar. 2022: One paper was accepted by CVPR 2022.

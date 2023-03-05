@@ -2,6 +2,10 @@
 title: Publications
 ---
 ### Graph Neural Networks
+- **Depp Learning on Graph-structured Date**
+    PhD Thesis
+    <u>**Zekun Tong**</u>
+    [PDF](/attaches/TZK-graph_thesis.pdf)
 - **Directed Graph Contrastive Learning**
     NeurIPS 2021, *poster*
     <u>**Zekun Tong**</u>, Yuxuan Liang, Henghui Ding, Yongxing Dai, Xinke Li, Changhu Wang 

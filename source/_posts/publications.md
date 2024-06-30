@@ -21,7 +21,7 @@ title: Publications
 
 ### Computer Vision
 - **Bridging the Source-to-target Gap for Cross-domain Person Re-Identification with Intermediate Domain**
-    arXiv 2022, *preprint*
+    IJCV 2024, *journal*
     Yongxing Dai, Yifan Sun, Jun Liu, <u>**Zekun Tong**</u>, Yi Yang, Ling-Yu Duan
     [PDF](https://arxiv.org/pdf/2203.01682.pdf)
 - **Primitive3D: Learning from 3D Objects Assembled with Random Primitives**
@@ -55,6 +55,10 @@ title: Publications
     [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3477934), [Website](https://3d.nus.app), [Code](https://github.com/Yuqing-Liao/reproduce-campus3d)
 
 ### Spatio-temporal Data Mining
+- **Predicting Parking Availability in Singapore with Cross-Domain Data: A New Dataset and A Data-Driven Approach**
+    IJCAI 2024, *poster*
+    Huaiwu Zhang, Yutong Xia, Siru Zhong, Kun Wang, <u>**Zekun Tong**</u>, Qingsong Wen, Roger Zimmermann, Yuxuan Liang
+    [PDF](https://arxiv.org/pdf/2405.18910)
 - **Modeling Trajectories with Neural Ordinary Differential Equations**
     IJCAI 2021, *poster*
     Yuxuan Liang, Kun Ouyang, Hanshu Yan, Yiwei Wang, <u>**Zekun Tong**</u>, Roger Zimmermann

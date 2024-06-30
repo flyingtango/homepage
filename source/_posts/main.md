@@ -1,6 +1,6 @@
 ---
 title: index
-date: 2023-03-03 11:00:00
+date: 2023-06-30 11:00:00
 tags:
 academia: true
 ---
@@ -12,14 +12,14 @@ My research interests lie in
 - Computer Vision;
 - Spatio-temporal Data Mining.
 
-<!-- ***I expect to graduate in the summer of 2022 and am currently seeking potential job opportunities, either in industry or research positions. I cannot wait to try out various chances, so please feel free to contact me!*** -->
-
 # Education
 
 PhD in Industrial Systems Engineering, **National University of Singapore**, 2018 - 2022
 B.E. in Computer Science and Technology, **Xidian University, China**, 2014 - 2018
 
 # News
+- Jun. 2024: One paper was accepted by IJCV 2024.
+- May. 2024: One paper was accepted by IJCAI 2024.
 - Feb. 2023: Successfully passed my PhD defense!
 - Aug. 2022: Submitted my thesis for defense.
 - May. 2022: Invited as a reviewer for TNNLS.
